@@ -12,7 +12,14 @@ In Android, programming is done in two languages JAVA or Kotlin and Jetpack Comp
 
 Java is the official language for Android App Development and consequently, it is the most used language as well. Kotlin has also been introduced as a “official” Java language in 2017. Kotlin is much simpler for beginners to try as compared to Java and it can also be used as an “entry point” for Android App Development. So my recommendation for a beginner is to go with Java first, then jump to Kotlin.
 
-#### So Now Let's start with basic learning
+# Table of contents
+* [Sprint 1](https://github.com/canopas/Canopas-Android-Roadmap#sprint-1)
+* [Sprint 2](https://github.com/canopas/Canopas-Android-Roadmap#sprint-2)
+* [Sprint 3](https://github.com/canopas/Canopas-Android-Roadmap#sprint-3)
+* [Sprint 4](https://github.com/canopas/Canopas-Android-Roadmap#sprint-1)
+* [Sprint 5](https://github.com/canopas/Canopas-Android-Roadmap#sprint-1)
+
+#### Let's start with basic learning
 
 ## Sprint 1
 
@@ -112,6 +119,8 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 * Introduction of database:[Udemy section 10](https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/) : lecture 189 to 191  
 * Save data using [SQLite](https://developer.android.com/training/data-storage/sqlite) 
 * Storing data with [Room](https://developer.android.com/training/data-storage/room)
+
+# Advance Learning
 
 ## Sprint 3
 > Now it’s time to dive into the real development with 50% work and 50% training daily
