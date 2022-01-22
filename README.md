@@ -1,9 +1,9 @@
-<h1 align="center">Android Roadmap 2022</h1>
+<h1 align="center">Android Developer Roadmap 2022</h1>
 
 ![alt text](https://github.com/cp-radhika-s/Android-Roadmap/blob/main/image/og_image.png)
 
 
- Android Developer Roadmap 2022 suggests learning paths to understanding Android development.
+ Android Developer Roadmap 2022 is learning paths to understanding Android development.
  
 ## How to Learn Android?
 
