@@ -179,10 +179,14 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 #### Practical 5.2
 * Retrieve and display a simple users list from web API to Android recycler view using retrofit. Display name, email and city in recyclerView. Store users in database
            **GET Api Url** : http://jsonplaceholder.typicode.com/users
-           On user item click display all albums of selected user  on next screen
+           
+             On user item click display all albums of selected user  on next screen
+           
            **GET Api Url**  : https://jsonplaceholder.typicode.com/albums?userId=1
+           
            On the Album item click show all photos of the selected album on the next screen.
-           **GET Api Url** : http://jsonplaceholder.typicode.com/photos?albumId=2
+          
+          **GET Api Url** : http://jsonplaceholder.typicode.com/photos?albumId=2
 #### References
 * [Dependency injection](https://developer.android.com/training/dependency-injection)
 * [Dependency injection with Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
