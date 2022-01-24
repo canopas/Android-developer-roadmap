@@ -147,9 +147,9 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 ### App Architecture
 * [Guide to app architecture](https://developer.android.com/jetpack/guide)
 * Android [Application Architecture](https://medium.com/oceanize-geeks/android-application-architecture-189b4721c7c5)
-      - Android [MVP Architecture](https://androidwave.com/android-mvp-architecture-for-beginners-demo-app/)
-      - Android Architecture Patterns: [Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b) 
-      - Android [MVVM Design Pattern](https://www.journaldev.com/20292/android-mvvm-design-pattern)
+  - Android [MVP Architecture](https://androidwave.com/android-mvp-architecture-for-beginners-demo-app/)
+  - Android Architecture Patterns: [Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b) 
+  - Android [MVVM Design Pattern](https://www.journaldev.com/20292/android-mvvm-design-pattern)
 
 ### ViewModel and LiveData
 #### Practicle 4.1
@@ -169,24 +169,19 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 
 #### References
 * [Rxjava](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)
-              Part 1:  [The Basics](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
-              Part 2:  [Operator, Operator](https://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)
-              Part 3:  [Reactive with Benefits](https://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)
-              Part 4:  [Reactive Android](https://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
+    - Part 1:  [The Basics](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
+    - Part 2:  [Operator, Operator](https://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)
+    - Part 3:  [Reactive with Benefits](https://blog.danlew.net/2014/09/30/grokking-rxjava-part-3/)
+    - Part 4:  [Reactive Android](https://blog.danlew.net/2014/10/08/grokking-rxjava-part-4/)
 * **Example:** [Rxjava with retrofit](https://www.freecodecamp.org/news/how-to-set-up-networking-in-your-android-app-with-retrofit-rxjava-mvp-108e7153521a/) 
-* 
+
 ### Hilt
 #### Practical 5.2
-* Retrieve and display a simple users list from web API to Android recycler view using retrofit. Display name, email and city in recyclerView. Store users in database
-           **GET Api Url** : http://jsonplaceholder.typicode.com/users
-           
-             On user item click display all albums of selected user  on next screen
-           
-           **GET Api Url**  : https://jsonplaceholder.typicode.com/albums?userId=1
-           
-           On the Album item click show all photos of the selected album on the next screen.
-          
-          **GET Api Url** : http://jsonplaceholder.typicode.com/photos?albumId=2
+* Retrieve and display a simple users list from web API to Android recycler view using retrofit. Display name, email and city in recyclerView. Store users in database. **GET Api Url** : http://jsonplaceholder.typicode.com/users
+* On user item click display all albums of selected user  on next screen. **GET Api Url**  : https://jsonplaceholder.typicode.com/albums?userId=1
+* On the Album item click show all photos of the selected album on the next screen.**GET Api Url** : http://jsonplaceholder.typicode.com/photos?albumId=2
+
+
 #### References
 * [Dependency injection](https://developer.android.com/training/dependency-injection)
 * [Dependency injection with Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
