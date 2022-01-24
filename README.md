@@ -55,15 +55,18 @@ Java is the official language for Android App Development and consequently, it i
     -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
 
 
-### Delightful user experience     
+### Delightful user experience   
+
+#### Practicle 1.3
+Create the [scorekeeper](https://developer.android.com/codelabs/android-training-drawables-styles-and-themes#1) application.
+#### Refrences
 *  [User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 *  Basic knowledge of 
       - [Material designs](https://material.io/design/introduction)
       - [Drawables](https://developer.android.com/reference/android/graphics/drawable/Drawable) 
       - [Styles and theme](https://developer.android.com/guide/topics/ui/look-and-feel/themes)
 
-#### Practicle 1.3
-Create the [scorekeeper](https://developer.android.com/codelabs/android-training-drawables-styles-and-themes#1) application.
+
 
 ### Code Style
 
