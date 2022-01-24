@@ -38,7 +38,7 @@ Java is the official language for Android App Development and consequently, it i
 * Understand The [Activity Lifecycle](https://developer.android.com/guide/components/activities/activity-lifecycle)
 * Understand The [Fragments](https://developer.android.com/guide/fragments)
 
-##### Practicle 1.1
+#### Practicle 1.1
 * Button click counter application
     - Write an application which counts the number of button clicks and shows the click count  on  the app screen.
     
@@ -49,7 +49,7 @@ Java is the official language for Android App Development and consequently, it i
       - [Drawables](https://developer.android.com/reference/android/graphics/drawable/Drawable) 
       - [Styles and theme](https://developer.android.com/guide/topics/ui/look-and-feel/themes)
 
-##### Practicle 1.2 
+#### Practicle 1.2 
 Create the [scorekeeper](https://developer.android.com/codelabs/android-training-drawables-styles-and-themes#1) application.
 
 ### Code Style
@@ -69,16 +69,16 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
     -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
 
 ### Android Permission
-##### Practicle 1.3
+#### Practicle 1.3
 * Write an application to request read and write storage permission on button click and Show result on the screen. 
-##### References
+#### References
 * [Permissions overview](https://developer.android.com/guide/topics/permissions/overview)
 * [Storage updates in Android 11](https://developer.android.com/about/versions/11/privacy/storage)
 
 ###  User interaction 
-##### Practicle 1.4
+#### Practicle 1.4
 * Write an application that has two edit texts for user name and user phone number, button and recycler view, shows user inputs in recycler view on button click. 
-##### References
+#### References
 * Android From Scratch: [Understanding Views And View Groups](https://code.tutsplus.com/tutorials/android-from-scratch-understanding-views-and-view-groups--cms-26043)
 * Build a Responsive UI with [ConstraintLayout](https://developer.android.com/training/constraint-layout)
 * Recyclerview
@@ -97,26 +97,26 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 
 ### Working in background
 
-##### Practicle 2.1
+#### Practicle 2.1
 * Write an application that lets the user trigger, update and cancel a notification using three buttons.
-##### Practicle 2.2
+#### Practicle 2.2
 * Create a broadcast receiver which listens to telephone state changes. If the phone receives a phone call, then the receiver will be notified and log a message.
-##### Practicle 2.3
+#### Practicle 2.3
 * Create a music player which play music in background 
-##### References
+#### References
 * Guide to [background processing](https://developer.android.com/guide/background)
 * [Broadcasts](https://developer.android.com/guide/components/broadcasts)    
 * [Services](https://developer.android.com/guide/components/services) 
 
 ### Saving user data
-##### Practicle 2.4
+#### Practicle 2.4
 * Imaplement Todo task reminder application.     
-##### References
+#### References
 * Introduction of database:[Udemy section 10](https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/) : lecture 177 - 178 
 * [Data and file storage](https://developer.android.com/training/data-storage) overview
 * [Shared preferences](https://developer.android.com/training/data-storage/shared-preferences)
 
-######  Save data in local database
+#####  Save data in local database
 * Introduction of database:[Udemy section 10](https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/) : lecture 189 to 191  
 * Save data using [SQLite](https://developer.android.com/training/data-storage/sqlite) 
 * Storing data with [Room](https://developer.android.com/training/data-storage/room)
@@ -127,18 +127,18 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 > Now it’s time to dive into the real development with 50% work and 50% training daily
 
 ### Jetpack compose
-##### Practical 3.1
+#### Practical 3.1
 * Create a Login registration form using Compose UI.
 * Create a UI like [this](https://github.com/cp-radhika-s/Android-Roadmap/blob/main/image/screenshot_2.png) 
-##### References
+#### References
 * [Setup](https://developer.android.com/jetpack/compose/setup)
 * [Jetpack compose basics](https://developer.android.com/jetpack/compose/tutorial?gclid=Cj0KCQjwktKFBhCkARIsAJeDT0ild-qffsVE98m2uwRTmjnj5LRAH2yAm9GCFKzPvYZfw-RbHKFsZUsaArEgEALw_wcB&gclsrc=aw.ds) 
 
 ### Android Networking
-##### Practicle 3.2
+#### Practicle 3.2
 * Retrieve and display a simple users list from web API to Android recyclerview using the retrofit library. Display Name, email, and city in Recyclerview and delete the user on a long item click.
   -  **GET Api Url**: http://jsonplaceholder.typicode.com/users
-###### References
+#### References
 * [OkHttp](https://square.github.io/okhttp/)
 * Typesafe HTTP client for android: [Retrofit](https://square.github.io/retrofit/)
 
@@ -152,9 +152,9 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
       - Android [MVVM Design Pattern](https://www.journaldev.com/20292/android-mvvm-design-pattern)
 
 ### ViewModel and LiveData
-##### Practicle 4.1
+#### Practicle 4.1
 * Use liveData and viewModel  in practical 3.2
-##### References
+#### References
 * [ViewModel](https://developer.android.com/topic/libraries/architecture/viewmodel)
 * [LiveData](https://developer.android.com/topic/libraries/architecture/livedata) 
 * [Udemy section 11](https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/)
@@ -162,12 +162,12 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 ## Sprint 5
 
 ### RxJava and RxAndroid
-##### Practical 5.1
+#### Practical 5.1
 * Create an android application to show a list of movies in recycler view using rxjava and retrofit using MVP architecture, use coil to display images.
    - **GET API Url**  : https://api.androidhive.info/json/movies.json
 * Self exercise: Write an open-source project to cover operators of rxjava such as map, flat map, combine, zip  etc...
 
-##### References
+#### References
 * [Rxjava](https://github.com/ReactiveX/RxJava) and [RxAndroid](https://github.com/ReactiveX/RxAndroid)
               Part 1:  [The Basics](https://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/)
               Part 2:  [Operator, Operator](https://blog.danlew.net/2014/09/22/grokking-rxjava-part-2/)
@@ -176,14 +176,14 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 * **Example:** [Rxjava with retrofit](https://www.freecodecamp.org/news/how-to-set-up-networking-in-your-android-app-with-retrofit-rxjava-mvp-108e7153521a/) 
 * 
 ### Hilt
-##### Practical 5.2
+#### Practical 5.2
 * Retrieve and display a simple users list from web API to Android recycler view using retrofit. Display name, email and city in recyclerView. Store users in database
            **GET Api Url** : http://jsonplaceholder.typicode.com/users
            On user item click display all albums of selected user  on next screen
            **GET Api Url**  : https://jsonplaceholder.typicode.com/albums?userId=1
            On the Album item click show all photos of the selected album on the next screen.
            **GET Api Url** : http://jsonplaceholder.typicode.com/photos?albumId=2
-##### References
+#### References
 * [Dependency injection](https://developer.android.com/training/dependency-injection)
 * [Dependency injection with Hilt](https://developer.android.com/training/dependency-injection/hilt-android)
 * [Hilt](https://dagger.dev/hilt/)
@@ -197,12 +197,12 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 * Background processing using coroutines- [Udemy section 12: lecture 276](https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/)
 
 ### Kotlin Flow
-##### Practicle 6.1
+#### Practicle 6.1
 * Make a calculator application. Save calculation history in the database. Users can view history and clear history.
-##### Practicle 6.2
+#### Practicle 6.2
 * Implament Makeup application. Retrive makeup list from api, also show full detail on item click
 * **API** http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline
-##### References
+#### References
 * [Kotlin flow](https://developer.android.com/kotlin/flow) on android
 * [Learn advance coroutine with kotlin flow and LiveData](https://developer.android.com/codelabs/advanced-kotlin-coroutines#0)
 
