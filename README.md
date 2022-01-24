@@ -16,8 +16,9 @@ Java is the official language for Android App Development and consequently, it i
 * [Sprint 1](https://github.com/canopas/Canopas-Android-Roadmap#sprint-1)
 * [Sprint 2](https://github.com/canopas/Canopas-Android-Roadmap#sprint-2)
 * [Sprint 3](https://github.com/canopas/Canopas-Android-Roadmap#sprint-3)
-* [Sprint 4](https://github.com/canopas/Canopas-Android-Roadmap#sprint-1)
-* [Sprint 5](https://github.com/canopas/Canopas-Android-Roadmap#sprint-1)
+* [Sprint 4](https://github.com/canopas/Canopas-Android-Roadmap#sprint-4)
+* [Sprint 5](https://github.com/canopas/Canopas-Android-Roadmap#sprint-5)
+* [Sprint 6](https://github.com/canopas/Canopas-Android-Roadmap#sprint-6)
 
 #### Let's start with basic learning
 
