@@ -41,7 +41,20 @@ Java is the official language for Android App Development and consequently, it i
 #### Practicle 1.1
 * Button click counter application
     - Write an application which counts the number of button clicks and shows the click count  on  the app screen.
-    
+     
+### Version control system
+
+#### Practicle 1.2
+* Create repository of practicle 1.1 on Gitlab
+
+#### References
+* Introduction to version control: [What Is Version Control?](http://guides.beanstalkapp.com/version-control/intro-to-version-control.html)
+* How to use git
+    -  [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123)
+    -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.freecodecamp.org/news/git-the-laymans-guide-to-understanding-the-core-concepts/)
+    -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
+
+
 ### Delightful user experience     
 *  [User Interface](https://www.udacity.com/course/android-basics-user-interface--ud834)
 *  Basic knowledge of 
@@ -49,7 +62,7 @@ Java is the official language for Android App Development and consequently, it i
       - [Drawables](https://developer.android.com/reference/android/graphics/drawable/Drawable) 
       - [Styles and theme](https://developer.android.com/guide/topics/ui/look-and-feel/themes)
 
-#### Practicle 1.2 
+#### Practicle 1.3
 Create the [scorekeeper](https://developer.android.com/codelabs/android-training-drawables-styles-and-themes#1) application.
 
 ### Code Style
@@ -61,22 +74,15 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 * [What is JSON and why would I use it?](https://stackoverflow.com/questions/383692/what-is-json-and-what-is-it-used-for)
 * [Json vs XML](https://beginnersbook.com/2015/04/json-tutorial/)    
 
-### Version control system
-* Introduction to version control: [What Is Version Control?](http://guides.beanstalkapp.com/version-control/intro-to-version-control.html)
-* How to use git
-    -  [Version control with git](https://www.udacity.com/course/version-control-with-git--ud123)
-    -  [Git: The Beginner's Guide to Understanding Core Version Control Concepts](https://www.freecodecamp.org/news/git-the-laymans-guide-to-understanding-the-core-concepts/)
-    -  [When to commit in version control](https://softwareengineering.stackexchange.com/questions/74764/how-often-should-i-do-you-make-commits)
-
 ### Android Permission
-#### Practicle 1.3
+#### Practicle 1.4
 * Write an application to request read and write storage permission on button click and Show result on the screen. 
 #### References
 * [Permissions overview](https://developer.android.com/guide/topics/permissions/overview)
 * [Storage updates in Android 11](https://developer.android.com/about/versions/11/privacy/storage)
 
 ###  User interaction 
-#### Practicle 1.4
+#### Practicle 1.5
 * Write an application that has two edit texts for user name and user phone number, button and recycler view, shows user inputs in recycler view on button click. 
 #### References
 * Android From Scratch: [Understanding Views And View Groups](https://code.tutsplus.com/tutorials/android-from-scratch-understanding-views-and-view-groups--cms-26043)
