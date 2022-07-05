@@ -111,7 +111,7 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 #### Practicle 2.2
 * Create a broadcast receiver which listens to telephone state changes. If the phone receives a phone call, then the receiver will be notified and log a message.
 #### Practicle 2.3
-* Create a music player which play music in background 
+* Create a music player application. Use android Service to play music in background. 
 #### References
 * Guide to [background processing](https://developer.android.com/guide/background)
 * [Broadcasts](https://developer.android.com/guide/components/broadcasts)    
@@ -119,7 +119,7 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 
 ### Saving user data
 #### Practicle 2.4
-* Imaplement Todo task reminder application.     
+* Implement Todo task reminder application. User should be able to add,edit and delete Todo task. User should get notification on selected time.
 #### References
 * Introduction of database:[Udemy section 10](https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/) : lecture 177 - 178 
 * [Data and file storage](https://developer.android.com/training/data-storage) overview
@@ -145,7 +145,7 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 
 ### Android Networking
 #### Practicle 3.2
-* Retrieve and display a simple users list from web API to Android recyclerview using the retrofit library. Display Name, email, and city in Recyclerview and delete the user on a long item click.
+* Retrieve and display a simple users list from web API to Android recyclerview using the retrofit library. Display Name, email, and city. Also add functionality to Delete the item.
   -  **GET Api Url**: http://jsonplaceholder.typicode.com/users
 #### References
 * [OkHttp](https://square.github.io/okhttp/)
