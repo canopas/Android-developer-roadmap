@@ -172,8 +172,8 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 
 ### RxJava and RxAndroid
 #### Practical 5.1
-* Create an android application to show a list of movies in recycler view using rxjava and retrofit using MVP architecture, use coil to display images.
-   - **GET API Url**  : https://api.androidhive.info/json/movies.json
+* Create an android application to show a list of movies in recycler view using rxjava and retrofit using MVP architecture.
+   - **GET API Url**  : https://top-250-movies-api.herokuapp.com/api/v1/movies
 * Self exercise: Write an open-source project to cover operators of rxjava such as map, flat map, combine, zip  etc...
 
 #### References
