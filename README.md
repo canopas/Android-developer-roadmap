@@ -208,8 +208,8 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 #### Practicle 6.1
 * Make a calculator application. Save calculation history in the database. Users can view history and clear history.
 #### Practicle 6.2
-* Implament Makeup application. Retrive makeup list from api, also show full detail on item click
-* **API** http://makeup-api.herokuapp.com/api/v1/products.json?brand=maybelline
+* Implament product application. Retrive product list from api, also show full detail on item click
+* **API** https://fakestoreapi.com/products
 #### References
 * [Kotlin flow](https://developer.android.com/kotlin/flow) on android
 * [Learn advance coroutine with kotlin flow and LiveData](https://developer.android.com/codelabs/advanced-kotlin-coroutines#0)
