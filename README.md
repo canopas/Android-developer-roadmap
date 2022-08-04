@@ -213,6 +213,12 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 #### References
 * [Kotlin flow](https://developer.android.com/kotlin/flow) on android
 * [Learn advance coroutine with kotlin flow and LiveData](https://developer.android.com/codelabs/advanced-kotlin-coroutines#0)
+#### Practicle 6.3
+* Write Unit test of praticle 6.2
+#### References
+* [Fundamentals of testing Android apps](https://developer.android.com/training/testing/fundamentals)
+* [Build local unit tests](https://developer.android.com/training/testing/local-tests)
+* [Introduction to unit testing ViewModel with Kotlin Coroutine & Flow](https://blog.canopas.com/introduction-to-unit-testing-viewmodels-with-kotlin-coroutine-367630e95831)
 
 #### StateFlow and SharedFlow 
 * [StateFlow and SharedFlow](https://developer.android.com/kotlin/flow/stateflow-and-sharedflow)
