@@ -109,7 +109,7 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 #### Practicle 2.1
 * Write an application that lets the user trigger, update and cancel a notification using three buttons.
 #### Practicle 2.2
-* Create a broadcast receiver which listens to telephone state changes. If the phone receives a phone call, then the receiver will be notified and log a message.
+* Create an app that uses a broadcast receiver to receive incoming SMS messages. The app should display a notification when a message with a specific keyword is received.
 #### Practicle 2.3
 * Create a music player application. Use android Service to play music in background. 
 #### References
@@ -119,7 +119,7 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 
 ### Saving user data
 #### Practicle 2.4
-* Implement Todo task reminder application. User should be able to add,edit and delete Todo task. User should get notification on selected time.
+* Imaplment Contact diary applicatio. User should be able to add, edit, delete, and search for contacts. Users can set reminders for the birthdays of their contacts and receive notifications.
 #### References
 * Introduction of database:[Udemy section 10](https://www.udemy.com/course/android-oreo-kotlin-app-masterclass/) : lecture 177 - 178 
 * [Data and file storage](https://developer.android.com/training/data-storage) overview
@@ -137,8 +137,8 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 
 ### Jetpack compose
 #### Practical 3.1
-* Create a Login registration form using Compose UI.
 * Create a UI like [this](https://github.com/cp-radhika-s/Android-Roadmap/blob/main/image/screenshot_2.png) 
+* Create a Quiz Appication. It should displays a series of multiple-choice questions. Users can select an answer and receive instant feedback on whether they were correct or not.
 #### References
 * [Setup](https://developer.android.com/jetpack/compose/setup)
 * [Jetpack compose basics](https://developer.android.com/jetpack/compose/tutorial?gclid=Cj0KCQjwktKFBhCkARIsAJeDT0ild-qffsVE98m2uwRTmjnj5LRAH2yAm9GCFKzPvYZfw-RbHKFsZUsaArEgEALw_wcB&gclsrc=aw.ds) 
