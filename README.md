@@ -155,6 +155,7 @@ A quick look on [Java](https://source.android.com/setup/contribute/code-style) a
 
 ### App Architecture
 * [Guide to app architecture](https://developer.android.com/jetpack/guide)
+* [App architecture recommendation](https://developer.android.com/topic/architecture/recommendations)
 * Android [Application Architecture](https://medium.com/oceanize-geeks/android-application-architecture-189b4721c7c5)
   - Android [MVP Architecture](https://androidwave.com/android-mvp-architecture-for-beginners-demo-app/)
   - Android Architecture Patterns: [Model-View-ViewModel](https://medium.com/upday-devs/android-architecture-patterns-part-3-model-view-viewmodel-e7eeee76b73b) 
